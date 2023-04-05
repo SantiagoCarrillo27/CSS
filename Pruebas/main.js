@@ -69,3 +69,8 @@ function escaler(n){
 }
 
 escaler(6)
+
+
+
+
+
